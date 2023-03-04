@@ -19,10 +19,10 @@ After finished, a Report.txt file is generated record the frequent items.
 
 with s = 500
 
-    |Bought together |c=0.3|c=0.5|c=0.7|c=0.9|
-    |----------------|-----|-----|-----|-----|
-    | 1 item  | 569  | 569 | 569 |  569  |
-    | 2 items |  35  |  5  | 1 |   0 |
-    | 3 items |  5  |   1  | 0 |   0 |
-    | 4 items |  0 |   0   | 0 |   0 |
+|Bought together |c=0.3|c=0.5|c=0.7|c=0.9|
+|----------------|-----|-----|-----|-----|
+| 1 item         | 569 | 569 | 569 |  569|
+| 2 items |  35  |  5  | 1 |   0 |
+| 3 items |  5  |   1  | 0 |   0 |
+| 4 items |  0 |   0   | 0 |   0 |
 
